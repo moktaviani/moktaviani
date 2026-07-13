@@ -1,122 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020B18,30:0A1628,60:0D2137,100:0A3D62&height=240&section=header&text=Maria%20Oktaviani&fontSize=56&fontColor=00B4D8&fontAlignY=40&desc=◈%20Internet%20Engineering%20Technology%20◈&descSize=16&descAlignY=65&descColor=4FC3F7"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&lines=%5BSYSTEM+BOOT%5D+Initializing+profile...;AI+Engineer+%7C+Cybersecurity+Enthusiast;Building+Intelligent+Systems;Always+Learning%2C+Always+Improving" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=moktaviani\&label=PROFILE+VIEWS\&color=00B4D8\&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/moktaviani?style=for-the-badge\&color=00B4D8)
-![Stars](https://img.shields.io/github/stars/moktaviani?style=for-the-badge\&color=00B4D8)
+<img src="./banner.svg" alt="Hii, I'm Maria Oktaviani" width="100%"/>
 
 </div>
 
----
+<p align="center">✦ ────────────────────────── ✦</p>
 
-# ◈ SYSTEM IDENTIFICATION
+## 🌾 about me
 
-```bash
-NAME        : Maria Oktaviani
-LOCATION    : Indonesia
-UNIVERSITY  : Gadjah Mada University
-MAJOR       : Internet Engineering Technology
-```
+I build gentle little systems out of models, sensors, and code — turns out detection models and fairy lights aren't so different, they both just want to notice things.
 
----
+- 🔍 currently exploring **AI / ML detection models**
+- 🌱 tinkering with **IoT & embedded systems**
+- 🕸️ building things for the **web**
+- 🔐 poking around **cybersecurity**
+- 🧵 favorite palette: earth tones + a little bit of dreamy fairy dust
 
-# ◈ CURRENT PROCESS STATUS
+<p align="center">✦ ────────────────────────── ✦</p>
 
-```text
-
-[ RUNNING  ]  ████████████░░░░  
-[ LEARNING ]  ██████████░░░░░░  
-[ BUILDING ]  ████████░░░░░░░░  
-[ OPEN     ]  ████████████████  
-[ UPTIME   ]  
-```
-
----
-
-# ◈ TECH ARSENAL
-
-### Artificial Intelligence
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-### Cybersecurity
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,bash,git" />
-</p>
-
-### Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,react,nodejs,mongodb,postgres" />
-</p>
-
----
-
-# ◈ GITHUB ANALYTICS
+## 🧸 tech & tools
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moktaviani&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Python](https://img.shields.io/badge/Python-4A3728?style=for-the-badge&logo=python&logoColor=E8C468)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-8B9A73?style=for-the-badge&logo=tensorflow&logoColor=F7EEE1)
+![Arduino](https://img.shields.io/badge/Arduino-C1876F?style=for-the-badge&logo=arduino&logoColor=F7EEE1)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4A3728?style=for-the-badge&logo=raspberrypi&logoColor=E8C468)
+![JavaScript](https://img.shields.io/badge/JavaScript-C1876F?style=for-the-badge&logo=javascript&logoColor=F7EEE1)
+![Linux](https://img.shields.io/badge/Linux-4A3728?style=for-the-badge&logo=linux&logoColor=E8C468)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moktaviani&layout=compact&theme=tokyonight&hide_border=true"/>
+*(ganti badge di atas sesuai stack asli kamu — cari nama tool-nya di [shields.io](https://shields.io) dan [simpleicons.org](https://simpleicons.org) buat logo lain)*
 
 </div>
 
----
+<p align="center">✦ ────────────────────────── ✦</p>
+
+## 🐍 contribution snake
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moktaviani&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/moktaviani/moktaviani/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%"/>
 
 </div>
 
----
+> ✦ ini animasi ular yang "memakan" kotak kontribusi kamu — gerak beneran tiap ada commit baru. Cara aktifin (sekali setup, otomatis jalan terus):
+> 1. Di repo profil kamu, buat file `.github/workflows/snake.yml`
+> 2. Isi dengan action [`Platane/snk`](https://github.com/Platane/snk) (tinggal copy contoh workflow dari repo itu)
+> 3. Jalankan workflow-nya sekali (Actions tab → Run workflow), nanti file SVG animasinya otomatis ke-generate ke branch `output`
+> 4. Ganti `YOUR_USERNAME` di atas dengan username GitHub kamu
+
+<p align="center">✦ ────────────────────────── ✦</p>
+
+## 🌤️ github stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moktaviani&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moktaviani&show_icons=true&hide_border=true&title_color=C1876F&icon_color=E8C468&text_color=4A3728&bg_color=F7EEE1" alt="github stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moktaviani&layout=compact&hide_border=true&title_color=C1876F&text_color=4A3728&bg_color=F7EEE1" alt="top langs" height="165" />
+
+*(ganti `YOUR_USERNAME` dengan username GitHub kamu)*
 
 </div>
 
----
+<p align="center">✦ ────────────────────────── ✦</p>
 
-# ◈ CONTRIBUTION NETWORK
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moktaviani&theme=github_dark"/>
-
-</div>
-
----
-
-# ◈ CONTRIBUTION SNAKE
+## 🌙 let's build something gentle together
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/moktaviani/moktaviani/output/github-contribution-grid-snake-dark.svg"/>
+[![Email](https://img.shields.io/badge/Email-4A3728?style=for-the-badge&logo=gmail&logoColor=E8C468)](mailto:hello@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C1876F?style=for-the-badge&logo=safari&logoColor=F7EEE1)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B9A73?style=for-the-badge&logo=linkedin&logoColor=F7EEE1)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-C1876F?style=for-the-badge&logo=instagram&logoColor=F7EEE1)](#)
 
-</div>
-
-
----
-
-<div align="center">
-
-<img width="850" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif">
-
-<br><br>
-
-> *"Building systems that understand, detect, and protect."*
-
-<br>
+<sub>✦ made with care, 2026 ✦</sub>
 
 </div>
