@@ -59,9 +59,9 @@
   <path class="sparkle d5" transform="translate(700,170) scale(0.7)" d="M0 -9 L2.6 -2.6 9 0 2.6 2.6 0 9 -2.6 2.6 -9 0 -2.6 -2.6 Z" fill="#8B9A73"/>
 
   <!-- wordmark -->
-  <text x="270" y="105" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="56" fill="#4A3728">dela</text>
-  <text x="272" y="132" font-family="Georgia, serif" font-size="15" fill="#7A6350">software developer, dreaming in earth tones</text>
+  <text x="270" y="105" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="56" fill="#4A3728">Hii,</text>
+  <text x="272" y="132" font-family="Georgia, serif" font-size="15" fill="#7A6350">I'm Maria Oktaviani</text>
 
   <!-- terminal-style tagline with blinking cursor -->
-  <text x="272" y="165" font-family="'Courier New', monospace" font-size="14" letter-spacing="1" fill="#C1876F">AI_DETECTION · IOT · WEB · CYBERSEC<tspan class="cursor" fill="#4A3728">_</tspan></text>
+  <text x="272" y="165" font-family="'Courier New', monospace" font-size="14" letter-spacing="1" fill="#C1876F">AI · IOT · CYBERSEC<tspan class="cursor" fill="#4A3728">_</tspan></text>
 </svg>
