@@ -60,7 +60,7 @@
 
   <!-- wordmark -->
   <text x="270" y="105" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="56" fill="#4A3728">Hii,</text>
-  <text x="272" y="132" font-family="Georgia, serif" font-size="15" fill="#7A6350">I'm Maria Oktaviani</text>
+  <text x="272" y="132" font-family="Georgia, serif" font-size="15" fill="#7A6350">I'm Maria Oktaviani !</text>
 
   <!-- terminal-style tagline with blinking cursor -->
   <text x="272" y="165" font-family="'Courier New', monospace" font-size="14" letter-spacing="1" fill="#C1876F">AI · IOT · CYBERSEC<tspan class="cursor" fill="#4A3728">_</tspan></text>
